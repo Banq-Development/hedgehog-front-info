@@ -20,8 +20,8 @@ class App extends React.Component {
           <h6>
             No oracles and no governance! Only a bonding curve.
           </h6>
-          <Button outline color="link text-success">Read the docs</Button>
-          <Button outline color="link text-success">Github</Button>
+          <Button outline color="link text-success" href="https://docs.hedgehog.financial">Read the docs</Button>
+          <Button outline color="link text-success" href="https://github.com/Banq-Development/hedgehog-contracts">Github</Button>
         </Container>
         <Container className="py-4 py-lg-4 text-white">
           <h1>
@@ -30,8 +30,8 @@ class App extends React.Component {
           <h6>
             No oracles and no governance! Only a bonding curve to penalize the sellers and reward the hodlers.
           </h6>
-          <Button outline color="link text-success">Read the docs</Button>
-          <Button outline color="link text-success">Github</Button>
+          <Button outline color="link text-success" href="https://docs.hodler.financial">Read the docs</Button>
+          <Button outline color="link text-success" href="https://github.com/Banq-Development/hodler-contracts">Github</Button>
         </Container>
       </div>
     );

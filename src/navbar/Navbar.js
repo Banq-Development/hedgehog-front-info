@@ -20,8 +20,8 @@ class AppNavbar extends React.Component {
           </NavLink>
           <Container className="px-4">
           </Container>
-          <Button className="text-light text-right"  color="primary" type="button-link" href="https://metamask.io"> Launch hedgehog </Button> 
-          <Button className="text-light text-right"  color="primary" type="button-link" href="https://metamask.io"> Launch hodl </Button> 
+          <Button className="text-light text-right"  color="primary" type="button-link" href="http://app.hedgehog.financial/"> Launch hedgehog </Button> 
+          <Button className="text-light text-right"  color="primary" type="button-link" href="http://app.hodler.financial/"> Launch hodler </Button> 
         </Navbar>
       </div>
     );
