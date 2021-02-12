@@ -18,7 +18,7 @@ class App extends React.Component {
             <b>Hedgehog</b> is a fully decentralized protocol for hedging against price changes of on-chain assets 
           </h1>
           <h6>
-            No oracles and no governance! Only a bonding curve.
+            No oracles and no ownership! Only a bonding curve.
           </h6>
           <Button outline color="link text-success" href="https://docs.hedgehog.financial">Read the docs</Button>
           <Button outline color="link text-success" href="https://github.com/Banq-Development/hedgehog-contracts">Github</Button>
@@ -28,7 +28,7 @@ class App extends React.Component {
             <b>Hodler</b> is the decentralized game to earn rewards for hodling.
           </h1>
           <h6>
-            No oracles and no governance! Only a bonding curve to penalize the sellers and reward the hodlers.
+            No oracles and no ownership! Only a bonding curve to penalize the sellers and reward the hodlers.
           </h6>
           <Button outline color="link text-success" href="https://docs.hodler.financial">Read the docs</Button>
           <Button outline color="link text-success" href="https://github.com/Banq-Development/hodler-contracts">Github</Button>
