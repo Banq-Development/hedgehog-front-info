@@ -25,7 +25,7 @@ class App extends React.Component {
         </Container>
         <Container className="py-4 py-lg-4 text-white">
           <h1>
-            <b>Hodler</b> is the decentralized game to earn rewards for hodling.
+            <b>Hodler</b> is the decentralized game to earn rewards for hodling
           </h1>
           <h6>
             No oracles and no ownership! Only a bonding curve to penalize the sellers and reward the hodlers.
